@@ -1,0 +1,10 @@
+.godot/
+.import/
+export_presets.cfg
+*.translation
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.swp
